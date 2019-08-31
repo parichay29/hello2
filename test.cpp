@@ -1,4 +1,4 @@
-#include<iostre>
+#include<iostream>
 #include<conio.h>
 int main()
 {
@@ -7,3 +7,4 @@ int main()
     return 0 ;
 }
 //step 1
+//second commit
